@@ -1,0 +1,21 @@
+[2025-01-28 14:32:32,206] LAPTOP-MCP8DQTB/INFO/locust.main: Starting Locust 2.32.6
+[2025-01-28 14:32:32,208] LAPTOP-MCP8DQTB/INFO/locust.main: Run time limit set to 10 seconds
+[2025-01-28 14:32:32,211] LAPTOP-MCP8DQTB/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2025-01-28 14:32:32,211] LAPTOP-MCP8DQTB/INFO/locust.runners: All users spawned: {"MyLoadTest": 1} (1 total users)
+[2025-01-28 14:32:33,893] LAPTOP-MCP8DQTB/INFO/root: Home page loaded successfully.
+[2025-01-28 14:32:36,657] LAPTOP-MCP8DQTB/INFO/root: Home page loaded successfully.
+[2025-01-28 14:32:37,987] LAPTOP-MCP8DQTB/INFO/root: Home page loaded successfully.
+[2025-01-28 14:32:41,469] LAPTOP-MCP8DQTB/ERROR/root: Home page did not load successfully.
+[2025-01-28 14:32:41,553] LAPTOP-MCP8DQTB/INFO/locust.main: --run-time limit reached, shutting down
+[2025-01-28 14:32:41,645] LAPTOP-MCP8DQTB/INFO/locust.main: Shutting down (exit code 1)
+[2025-01-28 14:33:08,640] LAPTOP-MCP8DQTB/INFO/locust.main: Starting Locust 2.32.6
+[2025-01-28 14:33:08,641] LAPTOP-MCP8DQTB/INFO/locust.main: Run time limit set to 10 seconds
+[2025-01-28 14:33:08,642] LAPTOP-MCP8DQTB/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2025-01-28 14:33:08,643] LAPTOP-MCP8DQTB/INFO/locust.runners: All users spawned: {"MyLoadTest": 1} (1 total users)
+[2025-01-28 14:33:10,038] LAPTOP-MCP8DQTB/INFO/root: Home page loaded successfully.
+[2025-01-28 14:33:11,471] LAPTOP-MCP8DQTB/INFO/root: Home page loaded successfully.
+[2025-01-28 14:33:12,905] LAPTOP-MCP8DQTB/INFO/root: Home page loaded successfully.
+[2025-01-28 14:33:14,339] LAPTOP-MCP8DQTB/INFO/root: Home page loaded successfully.
+[2025-01-28 14:33:16,900] LAPTOP-MCP8DQTB/INFO/root: Home page loaded successfully.
+[2025-01-28 14:33:17,957] LAPTOP-MCP8DQTB/INFO/locust.main: --run-time limit reached, shutting down
+[2025-01-28 14:33:18,062] LAPTOP-MCP8DQTB/INFO/locust.main: Shutting down (exit code 0)
